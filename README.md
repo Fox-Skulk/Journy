@@ -1,0 +1,2 @@
+# Journy
+My landing Page
